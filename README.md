@@ -170,9 +170,9 @@ A snake traces the perfect line through my contribution graph, corner after corn
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSAbhishek22/MSAbhishek22/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSAbhishek22/MSAbhishek22/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man running MSAbhishek22's contribution circuit" src="https://raw.githubusercontent.com/MSAbhishek22/MSAbhishek22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSAbhishek22/MSAbhishek22/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSAbhishek22/MSAbhishek22/output-pacman/pacman-contribution-graph.svg">
+  <img alt="Pac-Man running MSAbhishek22's contribution circuit" src="https://raw.githubusercontent.com/MSAbhishek22/MSAbhishek22/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
 ---
