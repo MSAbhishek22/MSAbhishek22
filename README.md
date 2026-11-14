@@ -6,9 +6,7 @@
   Snake / Pac-Man / 3D city regenerate daily via Actions.
 ============================================================ -->
 
-<img width="100%" src="./assets/touge-hero.webp" alt="A dark M coupe with angel-eye headlights on a wet mountain pass at night"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7EB6E8,50:16588E,100:E22739&height=200&section=header&text=M%20S%20ABHISHEK&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=THE%20BUILD%20%E2%80%94%20a%20developer%27s%20journey%2C%20tuned%20stage%20by%20stage&descAlignY=56&descSize=17"/>
+<img width="100%" src="./assets/touge-banner.webp" alt="M S Abhishek — THE BUILD: a dark M coupe with angel-eye headlights on a wet mountain pass at night, name over the car"/>
 
 <div align="center">
 
