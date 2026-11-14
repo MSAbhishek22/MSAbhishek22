@@ -29,6 +29,8 @@
 
 ## 🏁 THE DRIVER
 
+<p align="center"><img src="./assets/driver-card.svg" width="880" alt="whoami — the driver card: Sarfira, Meerut, management × building, crew, bosses luck and money, rule: it takes nothing to be kind"></p>
+
 They call him **Sarfira** — a little crazy, fully committed. The papers say **M S Abhishek**.
 
 Honest bio: he never fell in love with code. He fell in love with **the race** — the team forming at midnight, the demo that has to work by dawn, the room holding its breath. Code is just the engine; he'd rather be the one reading the road. His real bosses were never judges — they were **luck and money**: races lost before the start line because the entry, the travel, the resources weren't there, and friends quietly paying his bills so he never felt left out. He owes this garage to them — family first, then Aayushi, Chhavi, Rajnish, Rashtrapati, Jay Prakash, Bhavya, Adrika, Piyush, and Ashish, Khushi, Abhay, Anurag. Everything here was learned from people and from stubbornness — nobody handed it to him.
@@ -207,6 +209,8 @@ A snake traces the perfect line through my contribution graph, corner after corn
 ---
 
 ## 📊 TELEMETRY — LIVE FROM THE DASHBOARD
+
+<p align="center"><img src="./assets/heatmap.svg" width="880" alt="The Long Drive — my real contribution heatmap, regenerated daily"></p>
 
 <div align="center">
 
