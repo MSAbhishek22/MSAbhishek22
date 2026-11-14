@@ -27,6 +27,20 @@
 
 ---
 
+## 🏁 THE DRIVER
+
+They call him **Sarfira** — a little crazy, fully committed. The papers say **M S Abhishek**.
+
+Honest bio: he never fell in love with code. He fell in love with **the race** — the team forming at midnight, the demo that has to work by dawn, the room holding its breath. Code is just the engine; he'd rather be the one reading the road. His real bosses were never judges — they were **luck and money**: races lost before the start line because the entry, the travel, the resources weren't there, and friends quietly paying his bills so he never felt left out. He owes this garage to them — family first, then Aayushi, Chhavi, Rajnish, Rashtrapati, Jay Prakash, Bhavya, Adrika, Piyush, and Ashish, Khushi, Abhay, Anurag. Everything here was learned from people and from stubbornness — nobody handed it to him.
+
+**His one rule:** *"It takes nothing to be kind. Give your best, serve your duties before yourself, and have faith — God has plans beyond your imagination."*
+
+**His taste:** Harry Potter and Pirates of the Caribbean, Iron Man, Alan Walker and Atif Aslam at full volume, PUBG nights, a Continental GT 650 under him and a BMW M5 on the horizon.
+
+**Where the road ends:** not fame. Freedom. Responsibilities fulfilled, then disappearing into the hills to run a small aesthetic café nobody can quite place. The best temporary person you ever met — then gone, like taillights into a hairpin.
+
+---
+
 # 🏁 THE BUILD LOG
 
 Nobody builds a machine in a day. You start stock, you learn the machine, you tune it stage by stage — and one night it all comes together on an empty mountain road. My journey as a developer is the same story:
@@ -47,7 +61,7 @@ timeline
 
 ## 🔩 STAGE 0 — STOCK *(2023–24)*
 
-Every build starts as a stock machine and a driver who doesn't know its limits yet. Mine was a BTech CSE student at **Shobhit University, Meerut** — and my first "mods" weren't todo apps, they were swings at the real world:
+Every build starts as a stock machine and a driver who doesn't know its limits yet. Mine was a fresher in Meerut who picked CSE–AI/ML *despite hating maths* — irony at its peak — a chill guy who loved managing and hosting events far more than line-by-line code, and who didn't even own a laptop. Then he found hackathons: the one place where management, people and building collide at 3 AM. That was the spark. My first "mods" weren't todo apps, they were swings at the real world:
 
 | The first machine | What it was |
 |---|---|
@@ -63,7 +77,7 @@ Every build starts as a stock machine and a driver who doesn't know its limits y
 
 Then I started tuning for the people next to me in class — students drowning in PDFs, PYQs scattered across WhatsApp groups, exams arriving faster than notes.
 
-- 📚 **[VidyaSathi](https://github.com/MSAbhishek22/vidyasathi)** — study material, previous-year questions, tutorials and a forum in one clean garage. *Built because I lived the chaos it fixes.*
+- 📚 **[VidyaSathi](https://github.com/MSAbhishek22/vidyasathi)** — study material, previous-year questions, tutorials and a forum in one clean garage. *The build I'll never forget: no laptop of my own, so I borrowed my roommate Jay Prakash's — games, a round of Maggi, then building from 1 AM to a 6 AM deadline. It won me my first hackathon, an American one. First trophy, borrowed machine.*
 - 🎓 **[CramMaster](https://github.com/MSAbhishek22/CramMaster)** — agentic AI study planning: panic in, plan out.
 - 🗣️ **[Veronica](https://github.com/MSAbhishek22/Veronica_Chatbot)** — a voice-first AI chatbot (Groq + Flask + speech in/out). My first "talk to the machine" moment — a thread that runs through everything since.
 - 📈 **[EduGraphIQ](https://github.com/MSAbhishek22/EduGraphIQ)** · **[EduPilot](https://github.com/MSAbhishek22/edupilot)** · **[TrackMate](https://github.com/MSAbhishek22/-TrackMate_Master-Your-Goals)** — the supporting mods of the student era.
@@ -74,7 +88,7 @@ Then I started tuning for the people next to me in class — students drowning i
 
 The tune that defined the build: **stop making garage queens, start making machines that survive real Indian roads.** A farmer deciding whether to irrigate today. A kirana owner counting stock at midnight. A family that can't reach a doctor.
 
-- 🌧️ **[Monsoon Mitr](https://github.com/MSAbhishek22/monsoon-mitra)** — weather intelligence for farmers, so one wrong irrigation call doesn't burn a season.
+- 🌧️ **[Monsoon Mitr](https://github.com/MSAbhishek22/monsoon-mitra)** — weather intelligence for farmers, so one wrong irrigation call doesn't burn a season. *The first build on my OWN laptop (third year — until then, every machine was borrowed from friends). For the demo video, my father woke up at dawn and came with me to the rice fields to shoot it. This one's family.*
 - 🗣️🛒 **[Inventa](https://github.com/MSAbhishek22/Inventa)** — voice-enabled inventory for kirana shops. *Bolke stock update karo* — the owner's hands are full; the keyboard was never made for him.
 - 💧 **[JalRakshak](https://github.com/MSAbhishek22/JalRakshak)** — guarding water, the resource every village argues about.
 - 🧠 **[WellNest AI](https://github.com/MSAbhishek22/Wellnest-AI)** — a multi-agent wellness companion: mood, goals, mindful journaling, gentle nudges.
